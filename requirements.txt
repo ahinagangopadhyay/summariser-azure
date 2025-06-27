@@ -1,0 +1,7 @@
+streamlit
+beautifulsoup4
+requests
+pymupdf
+python-dotenv
+azure-ai-textanalytics
+openai==0.28
