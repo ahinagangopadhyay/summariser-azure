@@ -1,7 +1,8 @@
 streamlit
-beautifulsoup4
 requests
-pymupdf
+beautifulsoup4
+PyMuPDF
+openai==0.28
 python-dotenv
 azure-ai-textanalytics
-openai==0.28
+azure-core
